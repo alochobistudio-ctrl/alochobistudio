@@ -1,0 +1,7 @@
+{
+  "name": "আলো ছবি স্টুডিও - ALO CHOBI STUDIO",
+  "description": "প্রিমিয়াম ওয়েডিং ও ইভেন্ট ফটোগ্রাফি এবং সিনেমাটোগ্রাফি স্টুডিও। আপনার জীবনের সুন্দর মুহূর্তগুলোকে ছবিতে চিরস্থায়ী করে রাখি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
